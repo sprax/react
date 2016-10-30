@@ -1,2 +1,2 @@
 # react
-react JS sandbox
+sandbox for ReactJS
